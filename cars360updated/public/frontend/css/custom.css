@@ -1,0 +1,36 @@
+.icon_btn_custom {
+    border: 1px solid #efefef;
+    padding-top: 10px !important;
+}
+.icon_btn_custom i {
+    font-size: 26px;
+}
+.icon_btn_custom p {
+    border-top: none;
+    margin: 0;
+    padding: 8px 0 20px 0;
+    line-height: 0;
+}
+.custom-carousel-height {
+    height: 500px;
+    background: black;
+}
+.custom-carousel-height .carousel-item{
+    height: 500px;
+    background: black;
+    display: none;
+    justify-content: center !important;
+}
+.custom-carousel-height .active{
+    display: flex !important;
+}
+.custom-carousel-height .carousel-item-next {
+    display: flex !important;
+}
+.custom-carousel-height .carousel-item-prev {
+    display: flex !important;
+}
+.s_product_img .carousel .carousel-indicators li {
+    display: flex !important;
+    justify-content: center !important;
+}
